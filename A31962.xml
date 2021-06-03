@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties letter to the Lords of His Privy Councell of Scotland the petition of the kingdome of Scotland to the Lords of His Majesties Privy Councell of that kingdom : as also the humble petition of the gentry, ministers, freeholders and other inhabitants of the county of York ... June 3, 1642 : together with the copy of a letter sent from Sir Iohn Bourchier to Sir Thomas Barrington from York.</title>
+            <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31962</idno><idno type="EEBO-CITATION">13281278</idno>
+  <idno type="VID">98757</idno>
+  <idno type="EEBO-PROQUEST">2248540212</idno>
+  
+            <idno type="STC">Wing C2411</idno>
+            <idno type="STC">ESTC R33358</idno>
+            <idno type="OCLC">13281278</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A31962)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98757)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1546:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties letter to the Lords of His Privy Councell of Scotland the petition of the kingdome of Scotland to the Lords of His Majesties Privy Councell of that kingdom : as also the humble petition of the gentry, ministers, freeholders and other inhabitants of the county of York ... June 3, 1642 : together with the copy of a letter sent from Sir Iohn Bourchier to Sir Thomas Barrington from York.</title>
+                  <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Nathaniel Allen,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iune 8, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Ordered by the Lords in Parliament, that this letter shall be forthwith printed.  Io. Browne, Cler. Parliamentorum."</note>
+                  <note>Imperfect: cropped pages and print show-through, with loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98757:1"/>
+            <pb facs="tcp:98757:1"/>
+            <p>HIS MAIESTIES LETTER To the Lords of his Privy Councell of <hi>Scotland.</hi>
+            </p>
+            <p>The Petition of the Kingdome of SCOTLAND to the Lords of his Majesties Privy Councell of that Kingdome.</p>
+            <p>As also the humble Petition of the Gentry, Ministers, Freeholders, and other Inhabitants of the County of YORK, assembled by his Majesties summons at <hi>Heworth Moore,</hi> June 3. 1642.</p>
+            <p>Together with the copy of a Letter sent from Sir <hi>Iohn Bourchier</hi> to Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Barrington</hi> from <hi>York.</hi>
+            </p>
+            <p>
+               <hi>Ordered by the Lords in Parliament, That this Letter shall be forthwith Printed.</hi> Io. Browne, Cler. Parliamentorum.</p>
+            <figure>
+               <figDesc>arms of Charles I</figDesc>
+               <head>C R</head>
+               <p>HONI SOIT QVI MAL Y PENSE</p>
+            </figure>
+            <p>LONDON, Printed for <hi>Nathaniel Allen, Iune</hi> 8. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:98757:2"/>
+            <pb facs="tcp:98757:2"/>
+            <head>A LETTER Sent from the Kings Majestie to the Lords of his Privie Councell of the Kingdome of <hi>Scotland.</hi>
+            </head>
+            <opener>
+               <signed>Charles R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">R</seg>Ight trustie and wel-beloved Cousins, and Counsellers, We greet you well. Although We have already written Our minde to you Our Councell; yet upon Our second thoughts, arising especially from some bad rumours, coming to Our knowledge, We finde it necessarie both for Our Selfe, and for the good of that Our kingdome, to declare, and make knowne both Our disposition and desires more fully.</p>
+            <p>Wee know and feele the charge to be great, and the place to be high, wherein God (the King of kings) hath placed Ʋs, and that We must render an accompt of all Our actions to him, who in his owne time shall judge all men without exception of persons. We have no other intentions, but by Our government, to honour him by whom Kings raigne, and to procure the good of Our people: And for this end to preserve the right and authoritie where<g ref="char:EOLhyphen"/>with God hath vested Vs, and which by his Providence hath been derived to Vs, by many Princely progenitors: in the which glory that Our ancient Kingdome, and native Realme of Scotland doth participate.</p>
+            <p>We did not require of you, that you should sit as Judges upon the affaires of another Kingdome: We onely intended to have both Our sufferings and Our actions, (as they are exprest in many papers past betwixt Vs and Our Parliament) made throughly knowne unto you: that since We have none besides you whom We can aquaint with Our proceedings, you may clearly see that We have been so far from wronging Our Parliament of England, that We have given them all satisfaction, even above that which they themselves in the begin<g ref="char:EOLhyphen"/>ning did expresse, or almost desire: and as much as could well consist with the safety of Our Person and Honour. We will not put you in minde of your naturall affection toward Vs, which We know will rather be kindled then extinguished by Our distresse: Nor of your Covenant, wherein you are zealous of Our Greatnesse and Authority, and which standeth in that sense wherein you did sweare and subscribe it: Nor of the many good Lawes made in Our late Parliament (of which We hope the present and succeeding generations shall reap the fruits, when We are dead and gone:) Nor of the many promises made to vs, upon which We were willing to yeeld to such things for settling the government of that Our Kingdome, in Our personall absence, which neither could We have granted, nor would you have craved (as your selves did professe) had Our great affaires permited Our resi<g ref="char:EOLhyphen"/>dence amongst you. And whereas We are most unjustly blamed and calumniated, <hi>1.</hi> That We are popishly affected: <hi>2.</hi> That We are the cause of the bloud-shed in Ireland: <hi>3.</hi> That we intend to bring in forraigne Forces: We here do protest and declare in presence of him who knowes the most secret of. Our intentions and actions, that We are no wayes conscious to Our Selfe of the guiltinesse of any of the saids aspersious: and do take him to witnesse Our innocency therein, who onely hath the priviledge to be the searcher of hearts. And if any after so full and plaine profession shall distrust this Our free declaration, Wee attest God, that the fault is in the malignity of their rebellious humours, and no wayes <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:98757:3"/>
+            <head>
+               <hi>The Petition of the Kingdome of Scotland.</hi> To the Lords of His Maiesties most Honourable Privy Coun<g ref="char:EOLhyphen"/>cell of that Kingdome: Declaring their loyalty to His Majesty, and sincere affection and love to their Brethren in England, and the Parliament now assembled. Presented by two Earles, two Knights, two Burgesses, and two Ministers; in behalfe of themselves, and the well affected of the whole Kingdom. <hi>To the right Honourable, the Lords of His Majesties Privy Councell: the humble Petition of many Noblemen, Gentelemen, Burgesses, and Ministers occasionally meeting at Edenbourgh.</hi>
+            </head>
+            <opener>Most Humbly sheweth,</opener>
+            <p>WHereas they upon the report and sight of great Convocati<g ref="char:EOLhyphen"/>ons suddenly endevoured, and unexpectedly brought into this great Counsell day, for the most part by these who have been esteemed by the Countrey, and chalenged by the Parliament, as incendiaries, plotters, and enemies to the peace of this Kingdome, have occasionally convened at <hi>Edinburgh.</hi> And having heard of Let<g ref="char:EOLhyphen"/>ters from his Majesty, and Declaration from the Parliament of <hi>England,</hi> anent the present distractions of that Kingdome: They have reason from by-gone experi<g ref="char:EOLhyphen"/>ence, and present presumptions, to feare the intentions and endeavours of these evill affected persons and their adherents, lest by their convocations and solicita<g ref="char:EOLhyphen"/>tions, they take occasion of these differences to raise jealousies and divisions be<g ref="char:EOLhyphen"/>twixt these Kingdomes. And considering the common interest of all the Subjects of this Kingdome, to persevere the late peace so happily concluded betwixt these Nations by the providence of God, his Majesties goodnesse and wisedome, and the moderation of the Parliament of England, and so solemnly established by the late Treaty, oath of Parliament, publicke faith, and great Seales of these King<g ref="char:EOLhyphen"/>domes. As in all other points, so especially in these Articles (whereunto the rest are called but Prefaces) for setling and entertaining a solid peace betwixt these Nations in true union; lest upon any pretence they should bee dasht one against another. Wherein it is declared the duty of the Estates, yea of every Subject, for to convene and suppresse any evill affected persons, who would raise Armes a<g ref="char:EOLhyphen"/>gainst the Subjects of the other Kingdome, without consent of Parliament, as traytors to the Estate, much more to petition against it, and wherein there is ap<g ref="char:EOLhyphen"/>pointed a Commission of the Estates for the conservation of this peace in the in<g ref="char:EOLhyphen"/>terim betwixt Parliaments. All which the Petitioners, amongst the rest of the goo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> subjects of this Kingdome, did hazzard their lives and estates, to obtaine: And did demand in the Treaty upon their dangerous experience of the Councell of England there medling in the affaires betwixt his Majesty and this Kingdome; to the ingaging the Nations in war, which is so often condemned by the Estates of this Kingdome in their Remonstrances, pressing that common rule of Equity, <hi>To doe as you would be done unto;</hi> which now is, and may be retorted on this King<g ref="char:EOLhyphen"/>dome. Like as desiring earnestly, that your Lordships in these publicke resoluti<g ref="char:EOLhyphen"/>ons of so great consequences to these Kingdomes, may carry along with you the hearts and consciences of the body of this Kingdome, and prevent that the brea<g ref="char:EOLhyphen"/>ches grow not wider by false confidences grounded upon sudden undertakings of any persons, as also their naturall affection and duty to their gracious Sove<g ref="char:EOLhyphen"/>raigne,
+<pb facs="tcp:98757:3"/> according to the manifold obligations, and brotherly affection to the Kingdome of England, forcing them to pray to God, and to desire all men ac<g ref="char:EOLhyphen"/>cording to their stations, to use all lawfull meanes to breed and entertaine a good understanding betwixt his Majesty and his Parliament, the surest foundation of Greatnesse to his Majesty, and happinesse to these Kingdomes. Likewise taking to heart the dangerous consequences to his Majestie, and to his dominions, if your Lordships answer by tendering the offer of your service to his Majesty against the demands, or upon the differences betwixt his Majesty and his Parliament of England, or any other manner of way import (which God forbid) any ingaging of your selves, or these Nations in warre, or any thing that may tend thereunto.</p>
+            <p>Therefore in their owne names, and in the name of the rest of the Noblemen, Gentlemen, Burgesses and Ministers, whose hearts doe, and hands would goe a<g ref="char:EOLhyphen"/>long with this Petition for preservation of peace betwixt these Kingdomes, They doe in all humility and earnestnesse petition your Lordships, in the depth of your wisedomes, seriously to ponder the consequences of your answer to his Majesty and the Parliament of England at this time, so that thereby, neither the confi<g ref="char:EOLhyphen"/>dence betwixt his Majesty and good Subjects here, nor amongst themselves, nor betwixt the Kingdomes (these unions tending ever to his Majesties Greatnesse, and these dis-unions to his prejudice) may be any wayes weakned, or their peace endangered. And to that end, that as your Lordships would leave no lawful meanes, according to your vocation and interest, unassayed for begetting a good understanding betwixt his Majesty and his Parliament, being his greatest and most unpartiall Counsell representing the body, whereof his Majesty is the head; and so removing these distractions (the continuance whereof will sure trouble the peace of the Kingdome) according to your Lordships last answer, so also seeing his Majesty requires not that your Lordships should, neither can your Lordships judge of the Lawes and proceedings of another independent Kingdome; and the Parliament of England offers to give all satisfaction concerning any messages or papers sent to your Lordships anent their proceedings, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat your Lordships would be pleased, carefully to shun all offers of verball or reall engagements, either di<g ref="char:EOLhyphen"/>rectly, or by way of inference, without consent of the Parliament conforme to the Treaty, which either may give any just occasion of offence to your gracious Soveraigne, or of jealousie to your brethren in England, or of discourse unto a<g ref="char:EOLhyphen"/>ny, as if your Lordships did not observe that former rule of equity prescribed by themselves during your troubles, To doe to others as they will be done to them<g ref="char:EOLhyphen"/>selves. But did fall in the same faults, which your Lordships and the rest of the E<g ref="char:EOLhyphen"/>states of this Kingdome, had condemned in the Councell of England; And for this effect they cannot but remember your Lordships, that according to an Arti<g ref="char:EOLhyphen"/>cle of the Treatise, there was appointed a Commission as independent as any o<g ref="char:EOLhyphen"/>ther, of so many of every Estate representing the whole Kingdome, to prevent all occasion of division betwixt these Kingdoms in the interim betwixt Parliaments. All which they humbly representing to your Lordships wise considerations, and expect from your Lordships, so gracious an answer, as may satisfie their present feares, and secure from those dangers in the interim betwixt Parliaments, and thereby prevent all necessity of Petitions in this kinde.</p>
+            <closer>
+               <dateline>
+                  <hi>Presented</hi>
+                  <date>31. <hi>May</hi> 1642.</date>
+               </dateline>
+               <signed>
+                  <hi>To the Lords of his Majesties privy Councell, By</hi>
+                  <list>
+                     <item>
+                        <hi>E. Hadaington Earle</hi>
+                     </item>
+                     <item>
+                        <hi>E. Elch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. Earle</hi>
+                     </item>
+                     <item>
+                        <hi>Scottis-craig. Knight.</hi>
+                     </item>
+                     <item>
+                        <hi>Niddrie. Knight</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Binny, Burgesse.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Paterson Burgesse.</hi>
+                     </item>
+                     <item>
+                        <hi>Mr. Andrew Ramsey, Mr. Iohn Montcreif. Ministers.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:98757:4"/>
+            <head>
+               <hi>To the Kings most Excellent Majesty.</hi> The humble Petition of the Gentry, Ministers, Free-holders, and other Inhabi<g ref="char:EOLhyphen"/>tants of the County of Yorke. Assembled by His Majesties speciall Summons at Heworth More near the City of Yorke, on Friday, the third of Iune, <hi>1642.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THat this particular County, most affectionate to your Majesties service, hath well nigh for these three years last past been the stage, whereon the tragicall miseries, which necessarily accompany War and Armies, have been presented and acted, whereby the generall wealth and plenty of this County is exhausted and brought very low: Which weight of miseries are sen<g ref="char:EOLhyphen"/>sibly become much more heavy, by reason of your Majesties distance in resi<g ref="char:EOLhyphen"/>dence, and difference in Counsells, from your great Councell the Parliament, begetting great distempers and distractions throughout the Kingdome, and have specially amongst us produced factions and divisions, drawing into these parts great numbers of discontented persons, that may too justly be feared doe affect the publick ruine, for their private advantage. All which evills are daily fomen<g ref="char:EOLhyphen"/>ted, and made more formidable, by your Majesties drawing together (as we con<g ref="char:EOLhyphen"/>ceive not according to Law) many companies of the Trained Bands, and others both Horse and Foot of this County, and retaining multitudes of Commanders &amp; Cavaleers from other parts, and by the daily resort of Recusants, and persons dis<g ref="char:EOLhyphen"/>affected in Religion, to your Majesties Court at Yorke, and by the great prepara<g ref="char:EOLhyphen"/>tion of Armes, and other warlike provisions which begets in us feares of Warres to the great terror and amazement of us, your Majesties peaceable Subjects, and to the great decay of all Commerce and industrious Courses, for the wealth and prosperity of the Country, especially of Cloathing, which is the maine sub<g ref="char:EOLhyphen"/>sistence of this County, and is since your Majesties residence amongst us, and the following distractions thereupon, suddenly obstructed; insomuch that many thou<g ref="char:EOLhyphen"/>sand families, who are of, and have their livelihood by the Trade of Cloathing; are now at the point of utter undoing; which inevitably will prove to bee of dangerous consequence, and will be the in-let to our approaching and unavoid<g ref="char:EOLhyphen"/>able ruine, unlesse your Majesty please graciously to give redresse, by removing the causes which produce these miserable effects, it being too true, that very ma<g ref="char:EOLhyphen"/>ny, in these and other parts of the Kingdome, doe wholly withdraw themselves from their former Commerce and Dealing; and others, both Merchants and Chapmen, doe now generally refuse to make payment for goods long since sold and delivered, alledging, that others refuse to pay them for any commodity for<g ref="char:EOLhyphen"/>merly sold, till the feares and distractions of the Land be setled: which if not sud<g ref="char:EOLhyphen"/>denly prevented will forthwith o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e turne all such waies of advantage and com<g ref="char:EOLhyphen"/>fort, as have formerly made this Kingdome (and this County in particular) pro<g ref="char:EOLhyphen"/>sperous and happy.</p>
+            <p>We do therefore in all humility and duty, in the sense of our present deplorable condition, beseech your Majesty to pardon us, if we importune your Majesty more than others, since we have endured and are in hazard more than any; and that from these apprehensions, we may offer to your Majesty our earnest Petition for redresse and prevention of these evills daily threatning danger to your Majesty, and destruction to us; which we conceive is impossible any other way to bee effected, then by your Majesties entertaining a right understanding betwixt your Selfe and Parliament, and affoarding your Gracious eare and consent unto such
+<pb facs="tcp:98757:4"/> counsells and propositions as shall be tendred by them to your Majesty, for the honour and greatnesse of your Majesty and Posterity, and the good of this Church and Kingdome, and by your Maiesties declining all other counsells whatsoever, and uniting your confidence to your Parliament: and that your Majesty would in no way thinke fit to put us upon that rocke of dividing the duty we owe to your Majesty, your Parliament, and the whole Kingdome, to which we are so deeply engaged by our Protestation, which your Majesty to (our knowledge) ne<g ref="char:EOLhyphen"/>ver dissented from, nor declared against; and that whilst your Majesty expects our performance in one part thereof, we may not (being equally engaged) im<g ref="char:EOLhyphen"/>peach at all, or in the least degree goe lesse than our duty in the other, (which we stand resolved of) by no meanes either of feare or favour to be drawne to doe: and that your Majesty would take into consideration, that your Parliament being the supreame Iudicatory of your Kingdome, the very essence thereof must of ne<g ref="char:EOLhyphen"/>cessity be destroied, if their counsells and determinations be subjected to alterati<g ref="char:EOLhyphen"/>on, or reversall, by the counsells or opinions of any private persons, how learned or judicious soever: and seeing your Majesty hath passed an act, that this Parlia<g ref="char:EOLhyphen"/>ment shall not be dissolved or adjourned, without consent of your Majesty and both Houses, We humbly beseech your Majesty to take into your gracious and provident thoughts, that nothing may be done tending thereunto, and that the Lords and great Officers now called hither by your Majesties command, may speedily returne to the high Court of Parliament, whereby it may be evident to the world, that your Majestie intends not to decline the Law so enacted; and that since your Majesty hath graciously declared your confidence in the affecti<g ref="char:EOLhyphen"/>ons of this County, your Majesty would not thinke it fit an extraordinary Guard should be raised thereout, and the Cavaliers, and others of that quality still conti<g ref="char:EOLhyphen"/>nued about your Majesty as men most vsefull, and as if kept for some designe, they not having (for ought we knw) either interest in, or affections to the publicke good, their language and behaviour speaking nothing else but division and war, and their advantage consisting in that which is most destructive to others. And lastly, that since your Majesty hath called in this County to attend your Majesty this day, your Petitioners doe most humbly supplicate, that none either Cavaliers or others, (who in truth have not present fortunes in this County) may be ad<g ref="char:EOLhyphen"/>mitted into any meeting this day, concerning the publicke businesse thereof, or hereafter into any present Vote or Consultation when any further meeting may be, to prepare and consider of some fit answer to what your Majesty shall pro<g ref="char:EOLhyphen"/>pound; we humbly conceiving it neirher just nor equall (but a thing to be prote<g ref="char:EOLhyphen"/>sted against) that any whosoever should be thust upon us as men of this County, that are not either by their fortune or residence any part of us.</p>
+            <p>And now your Petitioners doe even heartily pray, that the God of Heaven (in whose hand are the hearts of Kings) would this day incline your Majesties heart seriously to consider these present and imminent miseries that this your Kingdome now groanes under, in the peace whereof (visibly under God) consists the pre<g ref="char:EOLhyphen"/>servation of the Protestant Religion, the redemption of our brethren in Ireland, and the establishment of that Kingdome to your Majesty and Posterity, from those desperate and unparalel'd Rebells, that so your Majesty might graciously grant these your Petitioners humble desires; (which whatsoever will be said to the cantrary) your Petitioners are well assured would abundantly redound to the
+<pb facs="tcp:98757:5"/> glory of God, the honour and safety of your Majesty, the good of your Posterity, and the onely probable meanes, under God, with peace and plenty to make this your Kingdome happy, besides the acquisition of your peoples hearts, the grea<g ref="char:EOLhyphen"/>test treasure of Princes: all which will gloriously represent your Majesty a live<g ref="char:EOLhyphen"/>ly portraiture of him, who is the fountaine of Wisdome and Piety: To whom we shall ever pray for your Majesties long and prosperous Reigne.</p>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>Die Lunae</hi> 6. <hi>Iunii,</hi> 1642. The Copy of a Letter sent from Sir Io: BOURCHIER, to Sir <hi>Thomas Barrington</hi> Knight and Baronet, from <hi>YORK.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Esterday being at <hi>Heworth-<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>or,</hi> I observed one reading something, so as I drew neere to him, and by inquiry, I found that it was a Petition that was to be presented presently to His Majesty; those that heard it read, ap<g ref="char:EOLhyphen"/>proved of it: meeting with a friend, I enquired of him if he had not the Pe<g ref="char:EOLhyphen"/>tition, or a Copy of it; which he told me he had: I intreated him that hee would lend me it, which accordingly he did; and having read part of it, my Lord <hi>Savill</hi> came with a great company in a furious manner, and demanded what I did there, and told me that I was reading some Pamphlet to the People, and that I was labouring to sow some seeds of Sedition, to seduce the King, Subjects: whereupon I told him it was a Petition that I was reading privately to my self, which I upon his approach put in my pocket. My Lord <hi>Savill</hi> in an imperious manner demanded of me to deliver it to him, which I refused; then his Lordship laid his hand on the belt of my sword, and almost pulled me off my horse, and forced me to deliver the Petition unto him, least otherwise some great mischiefe might have come to him; for his Lordship told me, if we loved fighting, we should have fighting enough. I told his Lordship, I came this day to labour for peace. And immediatly before his Lordships departure, he told me that he knew me well enough; then I told his Lordship, that I hoped he knew no ill by me: Many that were with his Lordship held up their Canes in a terrifying manner; and one of them said, Hold your prating, it were good to cane you: and when his Lordship and the rest were gone, one of them turned back, and bad me be quiet, or else I should be Caned, and said that it were a good deed to put me in the Stocks. After<g ref="char:EOLhyphen"/>wards there was one Captain <hi>Blague,</hi> who was one of my Lord <hi>Savills</hi> company, came in an intruding manner into my company, and I being discoursing with Sir <hi>Richard Darley</hi> and some other; and telling them how I was affronted even now by my Lord <hi>Savill,</hi> and formerly, having fine thrown into my Coach, and some other affronts done unto me, wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch I have formerly told you on; this Captain told me I did ill to lay aspersions upon persons of Honour: Whereupon I told him I did not lay it upon my Lord, but that I was so abused and affronted; upon due consideration, I verily believe be came to make some quarrell.</p>
+            <p>Sir, upon my parting from you, you desired to heare from me; here I thought good to let you know thus much concerning my selfe. Thus, with my service to you and my Lady, I rest</p>
+            <closer>
+               <signed>Your affectionate Cozen to serve you. <hi>IO: BOVRCHIER.</hi>
+               </signed>
+               <dateline>
+                  <hi>York,</hi>
+                  <date>
+                     <hi>4. Iune. 1642.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>Ordered by the Lords in Parliament, That this Letter shall be forthwith printed and published.</hi>
+            </p>
+            <closer>
+               <signed>Jo. Brown. Cleric. Parli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mentorum.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:98757:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
